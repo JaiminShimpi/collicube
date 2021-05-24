@@ -6,13 +6,13 @@ A small game with a cube as your main hero and try to avoid your enemy colliders
 
 ## Playermovement.cs
 <p float="left">
-  <img src="Screen Assests/cube_per.png" width="200"/>
-  <img src="Screen Assests/cube_inspector.png" width="100" /> 
+  <img src="Screen Assests/cube_per.png" width="300"/>
+  <img src="Screen Assests/cube_inspector.png" width="200" /> 
 </p>
 
 ## Obstacle.cs
 <p float="left">
-  <img src="Screen Assests/collider_per.png" width="200"/>
-  <img src="Screen Assests/colli_inspector.png" width="100" /> 
+  <img src="Screen Assests/collider_per.png" width="300"/>
+  <img src="Screen Assests/colli_inspector.png" width="200" /> 
 </p>
 
